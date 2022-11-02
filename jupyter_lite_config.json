@@ -1,0 +1,9 @@
+{
+    "XeusPythonEnv": {
+        "packages": [
+            "datascience",
+            "django",
+            "seaborn"
+        ]
+    }
+}
